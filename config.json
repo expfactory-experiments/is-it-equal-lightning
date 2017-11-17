@@ -1,0 +1,14 @@
+{
+    "name": "Is It Equal? (Lightning Mode)",
+    "template":"phaser",
+    "exp_id": "is-it-equal-lightning",
+    "contributors": [
+                     "Jonathan Nicholas",
+                     "Christian Battista",
+                     "Vanessa Sochat"
+                    ],
+    "time":10,
+    "instruction": "Follow the instructions to play the game.",
+    "description": "Guess if the quantities are equal before time runs out.",
+    "url": "https://www.github.com/expfactory-experiments/is-it-equal-lightning"
+}
